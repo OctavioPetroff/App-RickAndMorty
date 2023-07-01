@@ -1,0 +1,19 @@
+.info{
+    color: green;
+    display: grid;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.95);
+    display: grid;
+    align-items: center;
+    justify-content: space-around;
+}

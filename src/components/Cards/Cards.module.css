@@ -1,0 +1,9 @@
+.titulo{
+    font-size: large;
+}
+
+.container{
+    align-content: center;
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,39 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 15px 30px ;
+    margin-bottom: 20px;
+    margin-top: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav img{
+    filter: hue-rotate(100);
+}
+
+.random{
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-radius: 10px;
+    height: 30px;
+    width: 180px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}
+
+.link{
+    font-size: large;
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-radius: 10px;
+    height: 30px;
+    width: auto;
+    padding-left: 2px;
+    padding-right: 2px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}

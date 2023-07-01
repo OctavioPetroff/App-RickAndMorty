@@ -1,0 +1,24 @@
+.input{
+    font-size: large;
+    height: 30px;
+    width: 200px;
+    border: 1px solid rgb(101, 255, 71);
+    background-image: url("https://i.pinimg.com/originals/c2/b4/cf/c2b4cfa2c85a298fe6a57d13f1b6ec74.png");
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right: 20px;
+}
+
+.button{
+    font-size: large;
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 30px;
+    width: 50px;
+    margin-left: -20px;
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,36 @@
+form{
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    width: 500px;
+}
+
+label{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.input{
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: transparent;
+    background-position: center;
+}
+
+.button{
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-radius: 10px;
+    height: 30px;
+    width: 180px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}
